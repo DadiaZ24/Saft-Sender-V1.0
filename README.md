@@ -1,4 +1,4 @@
-![Portuguese Flag](https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg)
+![Portuguese Flag](https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg](https://github.com/madebybowtie/FlagKit/raw/master/Assets/PNG/PT@2x.png?raw=true)
 
 
 # My Awesome Project
