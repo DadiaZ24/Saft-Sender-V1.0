@@ -17,9 +17,16 @@ Esta é uma aplicação construída apenas para sistemas operativos Windows que 
 
 ---
 
-## 🛠️ Instalação
-
-### Passos
+### 🛠️ Instalação
 
 1. Clica já para fazeres o download do instalador:
-[Download](
+[Download](https://github.com/DadiaZ24/Saft-Sender-V1.0/archive/refs/heads/main.zip)
+2. Instala o software.
+3. Começa a utilizar o programa!
+
+### 💬 Contactos
+
+Interessado no meu trabalho? Não hesites em contactar!
+
+GitHub: @DadiaZ24
+Email: diogo-uds@hotmail.com
