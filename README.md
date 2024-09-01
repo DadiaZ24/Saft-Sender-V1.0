@@ -1,4 +1,4 @@
-![Portuguese Flag](https://github.com/madebybowtie/FlagKit/raw/master/Assets/PNG/PT@2x.png?raw=true)
+![Portuguese Flag](https://github.com/madebybowtie/FlagKit/raw/master/Assets/PNG/PT@2x.png?raw=true) # Portuguese Version
 
 
 # My Awesome Project
