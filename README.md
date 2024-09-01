@@ -1,34 +1,25 @@
-# ![Portuguese Flag](https://github.com/madebybowtie/FlagKit/raw/master/Assets/PNG/PT@2x.png?raw=true) Portuguese Version
+# Saft Sender
 
+![Saft Sender logo](https://i.imgur.com/y2vYuSn.png)
 
-# My Awesome Project
+## ![Portuguese Flag](https://github.com/madebybowtie/FlagKit/raw/master/Assets/PNG/PT@2x.png?raw=true) Portuguese Version
 
-![Project Banner](https://linktoimage.com/banner.png)
+### 🚀 Overview
 
-## 🚀 Overview
-
-This is a web application built to manage personal tasks and schedules. It allows users to organize daily activities, track deadlines, and get reminders for important events.
-
----
-
-## 🎯 Features
-
-- **Task Management:** Create, edit, and delete tasks easily.
-- **Reminder Notifications:** Set reminders for your tasks.
-- **Progress Tracking:** View task completion progress.
-- **Multiple Themes:** Choose from light or dark mode.
+Esta é uma aplicação construída apenas para sistemas operativos Windows que tem como funcionalidade o envio dos ficheiros de faturação SAFT-T para o chamado e-fatura (plataforma online da autoridade tributária portuguesa). 
 
 ---
 
-## 🛠️ Installation
+### 🎯 Funcionalidades
 
-### Prerequisites
+- **Facilidade no envio:** Consegues enviar o ficheiro sem ter que iniciar sessão no portal das finanças!
+- **Multi-envio:** Tens vários postos de faturação? Não te preocupes! O Saft Sender tem a possibilidade de enviar mais do que 1 ficheiro ao mesmo tempo! (apenas de 1 empresa).
 
-- Node.js
-- MongoDB
+---
 
-### Steps
+## 🛠️ Instalação
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/myusername/awesome-task-manager.git
+### Passos
+
+1. Clica já para fazeres o download do instalador:
+[Download](
