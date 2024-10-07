@@ -57,5 +57,5 @@ This is an application built exclusively for Windows operating systems that allo
 
 Interested in my work? Have questions about how the program works? Don’t hesitate to contact me!
 
-GitHub: @DadiaZ24  
+GitHub: @DadiaZ24
 Email: diogo-uds@hotmail.com
