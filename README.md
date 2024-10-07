@@ -4,7 +4,7 @@
 
 ## ![Portuguese Flag](https://github.com/madebybowtie/FlagKit/raw/master/Assets/PNG/PT@2x.png?raw=true) Portuguese Version
 
-### 🚀 Overview
+### 🚀 Sobre
 
 Esta é uma aplicação construída apenas para sistemas operativos Windows que tem como funcionalidade o envio dos ficheiros de faturação SAFT-T para o chamado e-fatura (plataforma online da autoridade tributária portuguesa). 
 
