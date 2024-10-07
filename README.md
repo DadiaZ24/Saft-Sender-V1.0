@@ -19,9 +19,9 @@ Esta é uma aplicação construída apenas para sistemas operativos Windows que 
 
 ### 🛠️ Instalação
 
-1. Clica já para fazeres o download do instalador:
-[Download](https://github.com/DadiaZ24/Saft-Sender-V1.0/releases/download/saft_sender/Saft.Sender.Installer.msi)
-2. Instala o software.
+1. Clica já para fazeres o download do programa:
+[Download](https://github.com/DadiaZ24/Saft-Sender-V1.0/archive/refs/heads/main.zip)
+2. Extrai o ficheiro.
 3. Começa a utilizar o programa!
 
 ### 💬 Contactos
@@ -48,9 +48,9 @@ This is an application built exclusively for Windows operating systems that allo
 
 ### 🛠️ Installation
 
-1. Click here to download the installer:
-   [Download](https://github.com/DadiaZ24/Saft-Sender-V1.0/releases/download/saft_sender/Saft.Sender.Installer.msi)
-2. Install the software.
+1. Click here to download the program:
+   [Download](https://github.com/DadiaZ24/Saft-Sender-V1.0/archive/refs/heads/main.zip)
+2. Unzip the file.
 3. Start using the program!
 
 ### 💬 Contact
