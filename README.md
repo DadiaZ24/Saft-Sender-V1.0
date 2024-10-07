@@ -28,7 +28,7 @@ Esta é uma aplicação construída apenas para sistemas operativos Windows que 
 
 Interessado no meu trabalho? Tens dúvidas em relação ao funcionamento do programa? Não hesites em contactar!
 
-GitHub: @DadiaZ24
+GitHub: @DadiaZ24<p>
 Email: diogo-uds@hotmail.com
 
 ## ![English Flag](https://github.com/madebybowtie/FlagKit/raw/master/Assets/PNG/GB@2x.png?raw=true) English Version
@@ -57,5 +57,5 @@ This is an application built exclusively for Windows operating systems that allo
 
 Interested in my work? Have questions about how the program works? Don’t hesitate to contact me!
 
-GitHub: @DadiaZ24
+GitHub: @DadiaZ24<p>
 Email: diogo-uds@hotmail.com
